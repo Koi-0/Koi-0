@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Koi&reversal=false&textBg=false&fontColor=fafdff&fontSize=60&fontAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=333333&text=Good%20Luck&reversal=false&textBg=false&fontColor=fafdff&fontSize=30&fontAlign=50&animation=fadeIn&section=footer" width="100%"/>
+
 <!--
 **Koi-0/Koi-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
