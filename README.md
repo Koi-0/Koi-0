@@ -14,8 +14,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koi-0&theme=chartreuse-dark&show_icons=true&hide=stars,contribs" alt="Koi's GitHub Stats" height="180px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koi-0&langs_count=6&layout=compact&theme=chartreuse-dark&show_icons=true" alt="Koi's GitHub Languages" height="180px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Koi-0&theme=chartreuse-dark&show_icons=true" alt="Koi's GitHub Stats" width="430px" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koi-0&langs_count=6&layout=compact&theme=chartreuse-dark&show_icons=true" alt="Koi's GitHub Languages" width="430px" height="180px"/>&nbsp;&nbsp;&nbsp;
 </div>
 
 <br/><br/><br/>
