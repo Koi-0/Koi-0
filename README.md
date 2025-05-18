@@ -37,7 +37,9 @@
 <!-- CSS 프레임워크 및 스타일링 -->
 <div align="center">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=Shadcn/ui&logoColor=white" alt="Shadcn/ui">
 </div>
 
 <br/>
@@ -73,7 +75,7 @@
 <!-- 백엔드 서비스 -->
 <div align="center">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
 </div>
 
