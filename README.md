@@ -39,7 +39,8 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=Shadcn/ui&logoColor=white" alt="Shadcn/ui">
+  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=Shadcn/ui&logoColor=white" alt="Shadcn/ui">&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/scss-%23CD6799.svg?style=for-the-badge&logo=scss&logoColor=white" alt="SCSS" />
 </div>
 
 <br/>
